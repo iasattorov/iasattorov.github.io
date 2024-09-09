@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/ru/publication/</link>
-      <atom:link href="http://localhost:1313/ru/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | Мой сайт</title>
+    <link>https://iasattorov.github.io/ru/publication/</link>
+      <atom:link href="https://iasattorov.github.io/ru/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 01 Jul 2030 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://iasattorov.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
-      <link>http://localhost:1313/ru/publication/</link>
+      <link>https://iasattorov.github.io/ru/publication/</link>
     </image>
     
     <item>
       <title>Никогда не проводившееся исследование</title>
-      <link>http://localhost:1313/ru/publication/conference-paper/</link>
+      <link>https://iasattorov.github.io/ru/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2030 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/publication/conference-paper/</guid>
+      <guid>https://iasattorov.github.io/ru/publication/conference-paper/</guid>
       <description>&lt;h2 id=&#34;исследование-на-тему-влияние-цвета-гривы-лошадей-на-их-поведение-в-различных-социальных-группах&#34;&gt;Исследование на тему: «Влияние цвета гривы лошадей на их поведение в различных социальных группах»&lt;/h2&gt;
 &lt;p&gt;Меня зовут Икромджон Сатторов, а мой коллега, помогавший в проведении исследования, — Ник Фьюри. Наше исследование было посвящено изучению взаимосвязи между цветом гривы лошадей и их социальным поведением в стаде. Это необычная тема, потому что никто ранее не рассматривал влияние окраса гривы на поведенческие особенности животных в социальной среде. Мы решили выяснить, может ли цвет гривы влиять на статус, агрессивность или иерархическое положение лошади в группе.&lt;/p&gt;
 &lt;p&gt;Цель исследования&lt;/p&gt;

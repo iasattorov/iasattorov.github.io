@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nature | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/ru/tags/nature/</link>
-      <atom:link href="http://localhost:1313/ru/tags/nature/index.xml" rel="self" type="application/rss+xml" />
+    <title>Nature | Мой сайт</title>
+    <link>https://iasattorov.github.io/ru/tags/nature/</link>
+      <atom:link href="https://iasattorov.github.io/ru/tags/nature/index.xml" rel="self" type="application/rss+xml" />
     <description>Nature</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://iasattorov.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Nature</title>
-      <link>http://localhost:1313/ru/tags/nature/</link>
+      <link>https://iasattorov.github.io/ru/tags/nature/</link>
     </image>
     
     <item>
       <title>Horses</title>
-      <link>http://localhost:1313/ru/project/pandas/</link>
+      <link>https://iasattorov.github.io/ru/project/pandas/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/project/pandas/</guid>
+      <guid>https://iasattorov.github.io/ru/project/pandas/</guid>
       <description>&lt;p&gt;Исследовательская работа про чудесных животных - лошадей!&lt;/p&gt;</description>
     </item>
     

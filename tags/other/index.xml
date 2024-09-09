@@ -1,84 +1,95 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Other | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/tags/other/</link>
-      <atom:link href="http://localhost:1313/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    <title>Other | My Site</title>
+    <link>https://iasattorov.github.io/tags/other/</link>
+      <atom:link href="https://iasattorov.github.io/tags/other/index.xml" rel="self" type="application/rss+xml" />
     <description>Other</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://iasattorov.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Other</title>
-      <link>http://localhost:1313/tags/other/</link>
+      <link>https://iasattorov.github.io/tags/other/</link>
     </image>
     
     <item>
-      <title>Scientific programming languages</title>
-      <link>http://localhost:1313/post/post-na-vibor-4/</link>
+      <title>Majestic animals</title>
+      <link>https://iasattorov.github.io/post/post-na-vibor-5/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post-na-vibor-4/</guid>
-      <description>&lt;h1 id=&#34;scientific-programming-languages&#34;&gt;Scientific programming languages&lt;/h1&gt;
-&lt;p&gt;Programming languages for scientific research play an important role in processing large amounts of data, modeling complex systems, and performing high-precision calculations. They help scientists and engineers solve problems that require significant computing resources and high performance.&lt;/p&gt;
-&lt;p&gt;In this post, we will look at several languages that are most often used in the scientific field.&lt;/p&gt;
-&lt;h2 id=&#34;1-python&#34;&gt;1. Python&lt;/h2&gt;
-&lt;p&gt;Python has become one of the most popular languages for scientific research due to its simplicity, accessibility and large number of libraries. The main advantages of Python:&lt;/p&gt;
+      <guid>https://iasattorov.github.io/post/post-na-vibor-5/</guid>
+      <description>&lt;h1 id=&#34;horses-majestic-and-faithful-companions-of-man&#34;&gt;Horses. Majestic and Faithful Companions of Man&lt;/h1&gt;
+&lt;p&gt;Horses are not just animals, they have played a key role in the development of human civilization for thousands of years. These majestic creatures, possessing strength, grace and nobility, accompanied us in wars, agriculture and travel. In this post, we will talk in more detail about horses: their history, breeds, behavioral characteristics and meaning for humans.&lt;/p&gt;
+&lt;h2 id=&#34;the-history-of-horses-from-wild-herds-to-domestic-helpers&#34;&gt;The history of horses. From wild herds to domestic helpers&lt;/h2&gt;
+&lt;p&gt;Domestic horses (Equus ferus caballus) are descended from wild ancestors such as Przewalski&amp;rsquo;s wild horse, the only species of wild horses that has survived to the present day. The domestication of horses began about 4-5 thousand years ago on the steppes of Eurasia. Since then, horses have become the most important companions of man.&lt;/p&gt;
+&lt;p&gt;In ancient times, they were used for transportation, plowing and transporting goods. Later, they became indispensable in military campaigns: light and fast, they allowed riders to move with incredible speed, providing an advantage on the battlefield.&lt;/p&gt;
+&lt;h3 id=&#34;horses-in-culture-and-mythology&#34;&gt;Horses in culture and mythology&lt;/h3&gt;
+&lt;p&gt;In various cultures, the horse symbolized strength, freedom and courage. For example:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Easy to learn and use&lt;/li&gt;
-&lt;li&gt;A wide range of libraries for scientific computing, such as NumPy, SciPy, Matplotlib and Pandas&lt;/li&gt;
-&lt;li&gt;Excellent tools for working with machine learning (e.g. TensorFlow, Keras, Scikit-learn)&lt;/li&gt;
+&lt;li&gt;In ancient Greece, horses were companions of the gods. The legendary horses of Poseidon and Pegasus are examples of divine beings with qualities attributed to horses.&lt;/li&gt;
+&lt;li&gt;In Norse mythology, Sleipnir, Odin&amp;rsquo;s eight-legged horse, was a symbol of speed and power.&lt;/li&gt;
+&lt;li&gt;In ancient Indian texts, the horse Ashwa was revered as a sacred animal associated with the sun and vital energy.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Python is used in various fields, from data processing to creating artificial intelligence models.&lt;/p&gt;
-&lt;h2 id=&#34;2-r&#34;&gt;2. R&lt;/h2&gt;
-&lt;p&gt;R is a programming language specifically designed to work with data and statistical calculations. It is popular among statisticians and data scientists due to features such as:&lt;/p&gt;
+&lt;h2 id=&#34;horse-breeds-the-diversity-of-beauty-and-power&#34;&gt;Horse breeds. The diversity of beauty and power&lt;/h2&gt;
+&lt;p&gt;There are more than 300 horse breeds, and each of them has its own characteristics that make them unique. Let&amp;rsquo;s look at some of the most famous and popular breeds.&lt;/p&gt;
+&lt;p&gt;###1. Arabian Horse
+One of the most ancient and recognizable breeds, the Arabian horse is distinguished by its elegance, endurance and proud appearance. She is easily recognized by her graceful head and high tail.&lt;/p&gt;
+&lt;p&gt;Features:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;A rich set of tools for statistical analysis&lt;/li&gt;
-&lt;li&gt;Built-in functions for working with data visualization&lt;/li&gt;
-&lt;li&gt;Extensive libraries for machine learning and modeling (e.g. Caret, randomForest)&lt;/li&gt;
+&lt;li&gt;Excellent endurance and speed.&lt;/li&gt;
+&lt;li&gt;Often used in equestrian and horse racing competitions.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;R is actively used in bioinformatics, economics, sociology and other fields where the analysis of large amounts of data is required.&lt;/p&gt;
-&lt;h2 id=&#34;3-matlab&#34;&gt;3. MATLAB&lt;/h2&gt;
-&lt;p&gt;MATLAB is a programming language and environment for performing mathematical calculations and modeling. It is popular among engineers and scientists due to the following features:&lt;/p&gt;
+&lt;p&gt;###2. Thoroughbred English horse
+This breed, bred for racing, is known for its incredible speed and agility. Thoroughbred horses are real athletes participating in the largest horse races in the world.&lt;/p&gt;
+&lt;p&gt;Features:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Powerful tools for working with matrices and numerical calculations&lt;/li&gt;
-&lt;li&gt;Data visualization and modeling of physical processes&lt;/li&gt;
-&lt;li&gt;Support for a large number of libraries for applied mathematics, physics, robotics, etc.&lt;/li&gt;
+&lt;li&gt;Maximum speed.&lt;/li&gt;
+&lt;li&gt;They often participate in endurance sports and horse racing.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Although MATLAB is a paid product, its convenience and power often justify the cost for large research projects.&lt;/p&gt;
-&lt;h2 id=&#34;4-julia&#34;&gt;4. Julia&lt;/h2&gt;
-&lt;p&gt;Julia is a relatively new programming language that has been designed specifically to perform high—performance computing. Its main advantages are:&lt;/p&gt;
+&lt;p&gt;###3. The Frisian horse
+Frisian horses are famous for their black color and long mane. It is one of the oldest breeds in Europe, distinguished by both power and elegance.&lt;/p&gt;
+&lt;p&gt;Features:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;High execution speed comparable to C and Fortran languages&lt;/li&gt;
-&lt;li&gt;Simplicity of the syntax close to Python&lt;/li&gt;
-&lt;li&gt;Excellent support for multithreaded computing and working with big data&lt;/li&gt;
+&lt;li&gt;High endurance.&lt;/li&gt;
+&lt;li&gt;Used in sledges and parades, as well as in shows and movies.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Julia is rapidly gaining popularity in scientific circles, especially in areas requiring complex mathematical calculations and modeling.&lt;/p&gt;
-&lt;h2 id=&#34;5-fortran&#34;&gt;5. Fortran&lt;/h2&gt;
-&lt;p&gt;Fortran is one of the oldest programming languages, developed in the 1950s, but still relevant for scientific computing. It is widely used in numerical modeling, especially in physics and engineering:&lt;/p&gt;
+&lt;h2 id=&#34;physical-characteristics-and-behavior&#34;&gt;Physical characteristics and behavior&lt;/h2&gt;
+&lt;p&gt;Horses are gregarious, social and very intelligent animals. In nature, they live in groups with a certain hierarchy, where the older stallion and the leading mare play the main roles.&lt;/p&gt;
+&lt;h3 id=&#34;vision&#34;&gt;Vision&lt;/h3&gt;
+&lt;p&gt;Horses have widely spaced eyes, which allows them to see almost 360 degrees around. However, they have a &amp;ldquo;blind spot&amp;rdquo; in front of their nose, which they compensate for with a movable neck.&lt;/p&gt;
+&lt;h3 id=&#34;communication&#34;&gt;Communication&lt;/h3&gt;
+&lt;p&gt;Horses communicate with both sounds and gestures. For example, they can neigh, knock with a hoof, and actively use facial expressions of ears and eyes to express emotions.&lt;/p&gt;
+&lt;h2 id=&#34;the-role-of-horses-in-the-modern-world&#34;&gt;The role of horses in the modern world&lt;/h2&gt;
+&lt;p&gt;Despite the development of technology, horses continue to play an important role in human life. Here are a few areas where horses remain indispensable:&lt;/p&gt;
+&lt;p&gt;###1. Sports and leisure
+Equestrian sports are one of the most popular forms of human–horse interaction. Sports include:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;High performance and optimization for numerical calculations&lt;/li&gt;
-&lt;li&gt;Widespread use in computational fluid dynamics, weather modeling and physical processes&lt;/li&gt;
-&lt;li&gt;Excellent support for parallel computing&lt;/li&gt;
+&lt;li&gt;Horse racing is one of the oldest sports competitions.&lt;/li&gt;
+&lt;li&gt;Dressage is the art of controlling a horse using precise commands.&lt;/li&gt;
+&lt;li&gt;Competition – jumping over obstacles.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Fortran remains relevant for tasks where large amounts of calculations with high accuracy are required.&lt;/p&gt;
-&lt;h2 id=&#34;6-cc&#34;&gt;6. C/C++&lt;/h2&gt;
-&lt;p&gt;C and C++ also play a significant role in scientific research due to their productivity and control over low-level processes. These languages are used in areas where high code execution speed is important, such as:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Simulations of physical processes&lt;/li&gt;
-&lt;li&gt;Processing large amounts of data&lt;/li&gt;
-&lt;li&gt;Development of system software&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;C and C++ are often used to develop software that requires working with hardware or large amounts of RAM.&lt;/p&gt;
+&lt;h3 id=&#34;2-therapy-and-rehabilitation&#34;&gt;2. Therapy and rehabilitation&lt;/h3&gt;
+&lt;p&gt;Hippotherapy (treatment with horses) It is actively used for the rehabilitation of people with physical and psychological problems. Horse movements have a positive effect on human muscles, and an emotional connection with an animal helps to overcome fears and stress.
+###3. Work and Agriculture
+In some parts of the world, horses continue to be used for transporting goods, plowing land and other agricultural work. This is especially true in remote mountainous or rural areas, where technology is not always available.&lt;/p&gt;
+&lt;h2 id=&#34;horse-care&#34;&gt;Horse care&lt;/h2&gt;
+&lt;p&gt;Horses require daily care, and it&amp;rsquo;s not just about feeding or cleaning. Here are a few aspects that are important for the health and happiness of a horse:&lt;/p&gt;
+&lt;h3 id=&#34;1-proper-nutrition&#34;&gt;1. Proper nutrition&lt;/h3&gt;
+&lt;p&gt;Horses are herbivores and their diet mainly consists of hay and grass. Access to clean water is also important.&lt;/p&gt;
+&lt;p&gt;###2. Hoof cleaning and Health
+Regular cleaning helps to avoid skin diseases, and hoof care prevents their deformities and infections.&lt;/p&gt;
+&lt;h3 id=&#34;3-vaccination-and-veterinary-care&#34;&gt;3. Vaccination and veterinary care&lt;/h3&gt;
+&lt;p&gt;Horses need regular vaccinations and checkups by a veterinarian to prevent diseases and monitor their overall health.&lt;/p&gt;
 &lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;The choice of a programming language for scientific research depends on the specific tasks. Languages such as Python or R are suitable for fast data development and analysis. If performance and working with low-level processes are important, then C/C++ or Fortran languages can be preferred. MATLAB and Julia are suitable for those cases where a balance between development speed and computing efficiency is required.
-It is important to remember that each of these languages has its own strengths and has specific applications, so scientists often use several languages in their projects.&lt;/p&gt;
+&lt;p&gt;Horses are amazing creatures whose role in human history and culture is enormous. They represent strength, freedom and devotion. Even in today&amp;rsquo;s world full of technology, the connection between man and horse remains unique and invaluable. Horses continue to serve people in sports, work and even in therapy, helping us not only physically but also spiritually.&lt;/p&gt;
+&lt;p&gt;It is thanks to these noble animals that we continue to feel their importance, appreciate their beauty and wisdom.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Scientific programming languages</title>
-      <link>http://localhost:1313/post/post-na-vibor-5/</link>
+      <link>https://iasattorov.github.io/post/post-na-vibor-4/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post-na-vibor-5/</guid>
+      <guid>https://iasattorov.github.io/post/post-na-vibor-4/</guid>
       <description>&lt;h1 id=&#34;scientific-programming-languages&#34;&gt;Scientific programming languages&lt;/h1&gt;
 &lt;p&gt;Programming languages for scientific research play an important role in processing large amounts of data, modeling complex systems, and performing high-precision calculations. They help scientists and engineers solve problems that require significant computing resources and high performance.&lt;/p&gt;
 &lt;p&gt;In this post, we will look at several languages that are most often used in the scientific field.&lt;/p&gt;
@@ -138,9 +149,9 @@ It is important to remember that each of these languages has its own strengths a
     
     <item>
       <title>Markdown Report Formatting</title>
-      <link>http://localhost:1313/post/post-na-vibor-3/</link>
+      <link>https://iasattorov.github.io/post/post-na-vibor-3/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post-na-vibor-3/</guid>
+      <guid>https://iasattorov.github.io/post/post-na-vibor-3/</guid>
       <description>&lt;h1 id=&#34;markdown-report-formatting-simple-and-elegant&#34;&gt;Markdown Report Formatting: Simple and Elegant&lt;/h1&gt;
 &lt;p&gt;If you&amp;rsquo;re looking for a simple and effective way to format your reports, Markdown might be the perfect solution. Markdown is a lightweight markup language that allows you to quickly create structured documents without the need for complex editors.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-markdown&#34;&gt;What is Markdown?&lt;/h2&gt;
@@ -189,9 +200,9 @@ It is important to remember that each of these languages has its own strengths a
     
     <item>
       <title>Markdown Markup Language</title>
-      <link>http://localhost:1313/post/post-na-vibor-2/</link>
+      <link>https://iasattorov.github.io/post/post-na-vibor-2/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post-na-vibor-2/</guid>
+      <guid>https://iasattorov.github.io/post/post-na-vibor-2/</guid>
       <description>&lt;h1 id=&#34;markdown-markup-language&#34;&gt;Markdown Markup Language&lt;/h1&gt;
 &lt;p&gt;Markdown is a simple and easy-to-use markup language that allows you to quickly and easily format text for publication on the internet. It was created in 2004 by John Gruber and Aaron Swartz to simplify the process of writing and reading text in HTML format.&lt;/p&gt;
 &lt;h2 id=&#34;advantages-of-markdown&#34;&gt;Advantages of Markdown&lt;/h2&gt;
@@ -235,9 +246,9 @@ It is important to remember that each of these languages has its own strengths a
     
     <item>
       <title>Version Control with Git.</title>
-      <link>http://localhost:1313/post/post-na-vibor-1/</link>
+      <link>https://iasattorov.github.io/post/post-na-vibor-1/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post-na-vibor-1/</guid>
+      <guid>https://iasattorov.github.io/post/post-na-vibor-1/</guid>
       <description>&lt;h1 id=&#34;version-control-with-git&#34;&gt;Version Control with Git&lt;/h1&gt;
 &lt;p&gt;Git is a distributed version control system that has become an indispensable tool for software developers. It allows you to effectively manage code changes, collaborate with other developers, and track the history of your project. Let&amp;rsquo;s explore the key concepts and commands of Git.&lt;/p&gt;
 &lt;h2 id=&#34;key-concepts-of-git&#34;&gt;Key Concepts of Git&lt;/h2&gt;
